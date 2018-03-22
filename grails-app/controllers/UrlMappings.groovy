@@ -11,6 +11,7 @@ class UrlMappings {
 
         "/"(controller: "main", action: "home", view: "home")
 
+        "/robots.txt"(view: '/robots')
         "500"(view:'/error')
         "404"(view:'/notFound')
     }
