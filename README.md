@@ -27,3 +27,4 @@ It's recommended to get the latest codebase of Project Babel 2K with git:
 Then follow the steps:
 
 `$ grails run-app v2ex-groovy`
+
